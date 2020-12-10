@@ -9,3 +9,5 @@ print(name)
 
 
 print("This is my new work")
+print("karachi is city of light.")
+print("schedule")
